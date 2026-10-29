@@ -147,23 +147,23 @@ img,
     transition: 0.7s;
 }
 .resveal2{
-    transform: translateY(100px);
+    transform: translateX(-100px);
     filter: blur(30px);
     transition: 0.7s;
 }
 .resveal21{
-    transform: translateY(100px);
+    transform: translateX(-100px);
     filter: blur(30px);
     transition: 0.5s;
     transition-delay:0.4s ;
 }
 .resveal3{
-    transform: translateY(100px);
+    transform: translateX(100px);
     filter: blur(30px);
     transition: 0.5s;
 }
 .resveal31{
-    transform: translateY(100px);
+    transform: translateX(100px);
     filter: blur(30px);
     transition: 0.7s;
     transition-delay:0.4s ;
